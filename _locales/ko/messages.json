@@ -1,0 +1,9 @@
+{
+    "title": { "message": "네웹 오토 스크롤" },
+    "start": { "message": "시작 🏃" },
+    "stop": { "message": "정지 ✋" },
+    "faster": { "message": "빠르게 ➕" },
+    "slower": { "message": "느리게 ➖" },
+    "speed": { "message": "속도" }
+  }
+  

@@ -1,0 +1,42 @@
+#webtoon-helper {
+    position: fixed;
+    top: 55px;
+    right: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    z-index: 1000;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.helper-box p {
+    margin: 0 0 10px;
+    font-weight: bold;
+}
+
+.helper-box button {
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    background: #00c73c;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.helper-box button:hover {
+    background: #009e2f;
+}
+
+#current-speed {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+#speed-icon {
+    font-size: 30px;
+    margin-top: 10px;
+}

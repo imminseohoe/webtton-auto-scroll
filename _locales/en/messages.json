@@ -1,0 +1,9 @@
+{
+    "title": { "message": "Auto Scroll" },
+    "start": { "message": "Start 🏃" },
+    "stop": { "message": "Stop ✋" },
+    "faster": { "message": "Faster ➕" },
+    "slower": { "message": "Slower ➖" },
+    "speed": { "message": "Speed" }
+  }
+  
