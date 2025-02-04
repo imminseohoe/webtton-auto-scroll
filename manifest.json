@@ -8,6 +8,12 @@
       "email": "imminseohoe@gmail.com",
       "name" : "imminseohoe"
     },
+    "icons": {
+      "16": "16.png",
+      "32": "32.png",
+      "64": "64.png",
+      "128": "128.png"
+    },
     "default_locale": "en",
     "host_permissions": ["https://comic.naver.com/webtoon/detail?*"],
     "content_scripts": [
