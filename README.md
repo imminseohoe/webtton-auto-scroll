@@ -1,6 +1,5 @@
 # Webtoon Auto Scrolling 🚀
-
-## 🌐 Language | 한국어 (클릭)  
+ 
 **[English](#webtoon-auto-scrolling-) | [한국어](#웹툰-오토-스크롤링-)**
 
 ---
